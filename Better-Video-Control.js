@@ -4,7 +4,7 @@
 // @version 2026-04-12
 // @description try to take over the world!
 // @author Coder
-// @downloadURL
+// @downloadURL https://raw.githubusercontent.com/coder4u/TamperMonkey-Dta-Better-Video-Control/refs/heads/main/Better-Video-Control.js
 // @match https://delta.mil.gov.ua/vezha/crew/*
 // @match https://delta.mil.gov.ua/vezha/sa/*
 // @icon https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://videojs.org&size=64
